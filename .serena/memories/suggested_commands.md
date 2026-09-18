@@ -1,0 +1,2 @@
+- Open `index.html` directly, or run `npx serve .` and browse to `http://localhost:3000`.
+- Focused static check: `node --check game.js`.

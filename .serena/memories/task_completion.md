@@ -1,0 +1,2 @@
+- Run `node --check game.js` after JavaScript edits.
+- Manually verify gameplay in a browser: arrow controls, Space firing/restart, collisions, level progression, and no canvas scrolling from handled keys.

@@ -1,0 +1,3 @@
+- Vanilla ES6+ JavaScript + HTML5 Canvas; browser globals only.
+- `index.html` fixes canvas display dimensions at 800×600; `game.js` mirrors them with `W`/`H`.
+- No dependency manager, bundler, transpilation, linter, formatter, or test runner is tracked.

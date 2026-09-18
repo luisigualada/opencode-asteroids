@@ -1,0 +1,2 @@
+- Static, dependency-free HTML5 Canvas Asteroids clone; no package manifest, build config, test config, or CI.
+- Browser entrypoint is `index.html`, which loads `game.js` directly. Read `mem:tech_stack` and `mem:conventions` for runtime and state invariants.

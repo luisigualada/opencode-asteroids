@@ -1,0 +1,3 @@
+- `game.js` is one intentionally global script, loaded after the canvas; do not add module imports without changing its delivery model.
+- Gameplay uses seconds-based `dt`, capped at 0.05 by the RAF loop; positions wrap through `wrap()`.
+- Dead entities use `dead` flags and are filtered after update/collision phases; preserve this lifecycle when adding entities.
